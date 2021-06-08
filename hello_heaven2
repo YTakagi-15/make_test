@@ -1,0 +1,7 @@
+void hello_heaven2(){
+cout << "hello,world!" << endl;
+cout << "coucou" << endl;
+int bobobbobobob = 98;
+cout << bobobbobobob << endl;
+
+}
